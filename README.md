@@ -1,4 +1,4 @@
 # Tugas-ML-Prediksi-Kanker-payudara
-predikssi kanker payudara
-menggunakan ML linear Regression, Decision Tree, dan Random Forest.
-mwnggunakan data mammographic dataset
+1. predikssi kanker payudara
+2. menggunakan ML linear Regression, Decision Tree, dan Random Forest.
+3. menggunakan data mammographic dataset
